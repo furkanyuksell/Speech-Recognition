@@ -1,0 +1,14 @@
+C:\Users\Furkan YÜKSEL\Desktop\speechRecognition\bin\Debug\speechRecognition.exe.config
+C:\Users\Furkan YÜKSEL\Desktop\speechRecognition\bin\Debug\speechRecognition.exe
+C:\Users\Furkan YÜKSEL\Desktop\speechRecognition\bin\Debug\speechRecognition.pdb
+C:\Users\Furkan YÜKSEL\Desktop\speechRecognition\bin\Debug\WatiN.Core.dll
+C:\Users\Furkan YÜKSEL\Desktop\speechRecognition\bin\Debug\WatiN.Core.xml
+C:\Users\Furkan YÜKSEL\Desktop\speechRecognition\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Furkan YÜKSEL\Desktop\speechRecognition\obj\Debug\speechRecognition.csproj.ResolveComReference.cache
+C:\Users\Furkan YÜKSEL\Desktop\speechRecognition\obj\Debug\speechRecognition.Form1.resources
+C:\Users\Furkan YÜKSEL\Desktop\speechRecognition\obj\Debug\speechRecognition.Properties.Resources.resources
+C:\Users\Furkan YÜKSEL\Desktop\speechRecognition\obj\Debug\speechRecognition.csproj.GenerateResource.Cache
+C:\Users\Furkan YÜKSEL\Desktop\speechRecognition\obj\Debug\speechRecognition.exe
+C:\Users\Furkan YÜKSEL\Desktop\speechRecognition\obj\Debug\speechRecognition.pdb
+C:\Users\Furkan YÜKSEL\Desktop\speechRecognition\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Furkan YÜKSEL\Desktop\speechRecognition\obj\Debug\speechRecognition.csprojResolveAssemblyReference.cache
